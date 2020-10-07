@@ -4,3 +4,4 @@ function isOdd(myNumber)
 }
 
 //your code here
+console.log("10 is odd"+isOdd(10))
